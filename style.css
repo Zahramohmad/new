@@ -1,0 +1,595 @@
+.mediaViewInfo {
+    --web-view-name: Web 1366 – 1;
+    --web-view-id: Web_1366__1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: Web_1366__1;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#Web_1366__1 {
+    position: absolute;
+    width: 1366px;
+    height: 768px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: Web 1366 – 1;
+    --web-view-id: Web_1366__1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+    display: flex;
+}
+#blue_bg {
+    position: absolute;
+    width: 1368.648px;
+    height: 266.249px;
+    left: -2.648px;
+    top: -19.411px;
+    overflow: visible;
+}
+#landing_bg {
+    position: absolute;
+    width: 322.459px;
+    height: 320.261px;
+    left: 963.107px;
+    top: 3.642px;
+    overflow: visible;
+}
+#Check_in_any_time_to_see_where {
+    opacity: 0.81;
+    left: 697.645px;
+    top: 414.423px;
+    position: absolute;
+    overflow: hidden;
+    width: 279.26px;
+    height: 48.712215423583984px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgba(125,116,116,1);
+}
+#Super_Fast_Delivery {
+    left: 368.003px;
+    top: 343.807px;
+    position: absolute;
+    overflow: visible;
+    width: 157px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgba(86,81,81,1);
+}
+#We_only_need_45-60_minutes_to_ {
+    opacity: 0.68;
+    left: 313.951px;
+    top: 373.482px;
+    position: absolute;
+    overflow: visible;
+    width: 291.569px;
+    height: 81.8138427734375px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgba(86,81,81,1);
+}
+#Group_140 {
+    position: absolute;
+    width: 120.112px;
+    height: 91.652px;
+    left: 399.365px;
+    top: 277.533px;
+    overflow: visible;
+}
+#Growing_from_30_to_300_deliver {
+    opacity: 0.71;
+    left: 1020.556px;
+    top: 484.586px;
+    position: absolute;
+    overflow: visible;
+    width: 252px;
+    height: 96px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgba(65,61,61,1);
+}
+#Real_Time_Tracking {
+    left: 757.033px;
+    top: 385.625px;
+    position: absolute;
+    overflow: visible;
+    width: 153px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgba(86,81,81,1);
+}
+#Group_1131 {
+    position: absolute;
+    width: 1494.235px;
+    height: 254.229px;
+    left: -27.891px;
+    top: 601.412px;
+    overflow: visible;
+}
+#waves {
+    position: absolute;
+    width: 1126.985px;
+    height: 86.679px;
+    left: -2.648px;
+    top: 193.523px;
+    overflow: visible;
+}
+#Group_1007 {
+    position: absolute;
+    width: 156.146px;
+    height: 137.441px;
+    left: 459.422px;
+    top: 472.121px;
+    overflow: visible;
+}
+#Group_1006 {
+    position: absolute;
+    width: 94.088px;
+    height: 100.945px;
+    left: 311.84px;
+    top: 519.509px;
+    overflow: visible;
+}
+#Group_1008 {
+    position: absolute;
+    width: 92.754px;
+    height: 93.43px;
+    left: 684.89px;
+    top: 534.876px;
+    overflow: visible;
+}
+#We_only_need_45-60_minutes__to {
+    left: 436.896px;
+    top: 620.631px;
+    position: absolute;
+    overflow: visible;
+    width: 228px;
+    height: 60px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgba(125,116,116,1);
+}
+#Group_152 {
+    position: absolute;
+    width: 64.167px;
+    height: 48.705px;
+    left: 802.656px;
+    top: 340.141px;
+    overflow: visible;
+}
+#n_20570240_1438492939673479_14 {
+    position: absolute;
+    width: 250.901px;
+    height: 167.268px;
+    left: 843.551px;
+    top: 617.743px;
+    overflow: visible;
+}
+#Group_1020 {
+    position: absolute;
+    width: 94.832px;
+    height: 55.269px;
+    left: 1103.635px;
+    top: 392.699px;
+    overflow: visible;
+}
+#Discounts {
+    left: 1104.746px;
+    top: 455.296px;
+    position: absolute;
+    overflow: visible;
+    width: 81px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgba(86,81,81,1);
+}
+#n_7c3f8418880a56f5f75687c4d268 {
+    position: absolute;
+    width: 108.284px;
+    height: 60.91px;
+    left: 21.829px;
+    top: 4px;
+    overflow: visible;
+}
+#Services_____ {
+    left: 299.283px;
+    top: 19px;
+    position: absolute;
+    overflow: visible;
+    width: 109px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    color: rgba(120,114,114,1);
+}
+#About_us_____ {
+    left: 480.765px;
+    top: 19px;
+    position: absolute;
+    overflow: visible;
+    width: 119px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    color: rgba(120,114,114,1);
+}
+#Help_center____________ {
+    left: 653.644px;
+    top: 19px;
+    position: absolute;
+    overflow: visible;
+    width: 185px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    color: rgba(120,114,114,1);
+}
+#HOME {
+    left: 166.603px;
+    top: 19px;
+    position: absolute;
+    overflow: visible;
+    width: 64px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    color: rgba(120,114,114,1);
+}
+#Group_12 {
+    position: absolute;
+    width: 109.667px;
+    height: 34.632px;
+    left: 1208.125px;
+    top: 17px;
+    overflow: visible;
+}
+#login_button_bg {
+    position: absolute;
+    width: 109.667px;
+    height: 34.632px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#log_in {
+    left: 32px;
+    top: 2.368px;
+    position: absolute;
+    overflow: visible;
+    width: 47px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgba(185,44,207,1);
+}
+#Mask_Group_1 {
+    position: absolute;
+    width: 135.007px;
+    height: 218.192px;
+    left: 1036.132px;
+    top: 19.324px;
+    overflow: visible;
+}
+#why_kudzoka_bg {
+    position: absolute;
+    width: 218.204px;
+    height: 181.228px;
+    left: 40.362px;
+    top: 363.614px;
+    overflow: visible;
+}
+#KUDZOKA {
+    left: 84.403px;
+    top: 443.021px;
+    position: absolute;
+    overflow: visible;
+    width: 154.597px;
+    height: 50px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+}
+#Group_7 {
+    position: absolute;
+    width: 74.069px;
+    height: 22.688px;
+    left: 129.113px;
+    top: 701.377px;
+    overflow: visible;
+}
+#Rectangle_9 {
+    fill: rgba(255,255,255,1);
+}
+.Rectangle_9 {
+    position: absolute;
+    overflow: visible;
+    width: 74.069px;
+    height: 22.688px;
+    left: 0px;
+    top: 0px;
+}
+#Apple_store {
+    left: 18.017px;
+    top: 4.671px;
+    position: absolute;
+    overflow: visible;
+    width: 44px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 8px;
+    color: rgba(112,112,112,1);
+}
+#apple {
+    position: absolute;
+    width: 16.015px;
+    height: 19.447px;
+    left: 2.001px;
+    top: 2.002px;
+    overflow: visible;
+}
+#Group_8 {
+    position: absolute;
+    width: 74.069px;
+    height: 22.688px;
+    left: 40.363px;
+    top: 701.377px;
+    overflow: visible;
+}
+#Rectangle_9_bf {
+    fill: rgba(255,255,255,1);
+}
+.Rectangle_9_bf {
+    position: absolute;
+    overflow: visible;
+    width: 74.069px;
+    height: 22.688px;
+    left: 0px;
+    top: 0px;
+}
+#Google_play {
+    left: 16.682px;
+    top: 4.671px;
+    position: absolute;
+    overflow: visible;
+    width: 46px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 8px;
+    color: rgba(112,112,112,1);
+}
+#play-store {
+    position: absolute;
+    width: 12.679px;
+    height: 14.427px;
+    left: 2.669px;
+    top: 4.004px;
+    overflow: visible;
+}
+#Icon_simple-whatsapp {
+    position: absolute;
+    width: 15.226px;
+    height: 15.226px;
+    left: 72.916px;
+    top: 736.343px;
+    overflow: visible;
+}
+#Icon_awesome-instagram {
+    position: absolute;
+    width: 14.53px;
+    height: 14.53px;
+    left: 52.041px;
+    top: 737.01px;
+    overflow: visible;
+}
+#Icon_feather-facebook {
+    position: absolute;
+    width: 9.007px;
+    height: 14.861px;
+    left: 94.75px;
+    top: 736.343px;
+    overflow: visible;
+}
+#About_us______bl {
+    left: 332.637px;
+    top: 741.758px;
+    position: absolute;
+    overflow: visible;
+    width: 92px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(255,255,255,1);
+}
+#Help_center_____________bm {
+    left: 434.064px;
+    top: 741.758px;
+    position: absolute;
+    overflow: visible;
+    width: 144px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(255,255,255,1);
+}
+#HOME_bn {
+    left: 159.807px;
+    top: 741.758px;
+    position: absolute;
+    overflow: visible;
+    width: 50px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(255,255,255,1);
+}
+#Services______bo {
+    left: 245.221px;
+    top: 741.758px;
+    position: absolute;
+    overflow: visible;
+    width: 84px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(255,255,255,1);
+}
+#Leave_the_logistics_to_us_whil {
+    left: 174.534px;
+    top: 125.079px;
+    position: absolute;
+    overflow: visible;
+    width: 790px;
+    height: 141px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 35px;
+    color: rgba(112,112,112,1);
+}
+#You_sell_it_We_Deliver_it {
+    left: 171.428px;
+    top: 59.162px;
+    position: absolute;
+    overflow: visible;
+    width: 778.276px;
+    height: 83.9893798828125px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 55px;
+    color: rgba(112,112,112,1);
+}
+#Rectangle_10 {
+    fill: rgba(161,120,185,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_10 {
+    position: absolute;
+    overflow: visible;
+    width: 79px;
+    height: 4px;
+    left: 159px;
+    top: 47px;
+}
+#second_section_ {
+    position: absolute;
+    width: 766.961px;
+    height: 333.83px;
+    left: 459.183px;
+    top: 197.379px;
+    overflow: visible;
+}
+#clouds {
+    position: absolute;
+    width: 265.808px;
+    height: 138.955px;
+    left: 985.576px;
+    top: 185.151px;
+    overflow: visible;
+}
+#Round_the_clock_Support {
+    left: 445px;
+    top: 590px;
+    position: absolute;
+    overflow: visible;
+    width: 204px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgba(86,81,81,1);
+}
+#why_choose {
+    left: 86px;
+    top: 416px;
+    position: absolute;
+    overflow: visible;
+    width: 96px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(255,255,255,1);
+}
+
+a :hover{color: rgb(136, 39, 158);}
+
+div{display: flex;}
